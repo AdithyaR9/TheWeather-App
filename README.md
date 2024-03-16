@@ -1,7 +1,7 @@
-# Weather App
+# TheWeather App
 
 ## Overview
-This Weather App is built in Swift and SwiftUI, following an MVVM-like architecture pattern. 
+This App is built in Swift and SwiftUI, following an MVVM-like architecture pattern. 
 It retrieves live weather data based on the user's location using the OpenWeather API.
 
 ## Features
